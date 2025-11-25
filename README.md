@@ -3,7 +3,7 @@ Desafio de dados para prever se ocorreu uma mudança de rota ao comparar com a m
 
 ## Como executar
 
-Para executar os notebook é necessário alterar a variável `DRIVE_PATH` para apontar para onde estão os arquivos `train.csv` e `test.csv`.
+Para executar os notebooks é necessário alterar a variável `DRIVE_PATH` para apontar para onde estão os arquivos `train.csv` e `test.csv`.
 
 ## Notebooks
 
@@ -15,8 +15,6 @@ Existe um Jupyter Notebook para cada etapa:
 
 
 ## Sobre o dataset
-
-Dados originais processados: 10,000,000 linhas.
 
 10 Colunas existentes no dataset.
 
@@ -36,7 +34,7 @@ Dados originais processados: 10,000,000 linhas.
 
 ## Análise Exploratório dos dados
 
-Total de registros: 10,000,000
+Total de registros processados: 10,000,000
 Pares origem-destino únicos: 109
 
 Mudanças de rota: 205,935 (2.06%)
