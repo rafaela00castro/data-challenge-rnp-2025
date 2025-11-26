@@ -57,6 +57,10 @@ Features criadas:
   - probe_efficiency
   - pair_id
 
+## Data Profiling
+
+Para visualizar estatisticas dos dados acessar o [Relatório](https://htmlpreview.github.io/?https://github.com/rafaela00castro/data-challenge-rnp-2025/blob/main/data/train_sample_profile_report.html) gerado
+
 ## Modelo
 
 ### Hiperparâmetros CatBoost com GPU
